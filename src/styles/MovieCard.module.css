@@ -1,0 +1,16 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 8px;
+    background: white;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  .card button {
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+  }
+  
